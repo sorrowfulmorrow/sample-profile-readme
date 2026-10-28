@@ -1,6 +1,6 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Emily Smith
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I'm a student of 1003-ON1, majoring in Cybersecurity. I've been interested in mythology lately.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -10,7 +10,6 @@ _Share some information about yourself, including your class, major, jobs, and e
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/sorrowfulmorrow)
 
-_"Your sample quote here!"_
+"And in the end the burgesses passed that remarkable law which is told of by traders in Hatheg and discussed by travellers in Nir; namely, that in Ulthar no man may kill a cat."
